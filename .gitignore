@@ -1,0 +1,9 @@
+target
+*.log
+*.*~
+.idea
+*.iml
+*.class
+.gradle
+build
+gen-java/
